@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/elias/Desktop/UeK-335/TiltRacer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13472222222222222" />
         <entry key="..\:/Users/elias/Desktop/UeK-335/TiltRacer/app/src/main/res/layout/activity_game_over.xml" value="0.375" />
-        <entry key="..\:/Users/elias/Desktop/UeK-335/TiltRacer/app/src/main/res/layout/activity_gameplay.xml" value="0.25" />
+        <entry key="..\:/Users/elias/Desktop/UeK-335/TiltRacer/app/src/main/res/layout/activity_gameplay.xml" value="0.2" />
         <entry key="..\:/Users/elias/Desktop/UeK-335/TiltRacer/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
